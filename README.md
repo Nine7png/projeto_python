@@ -16,7 +16,7 @@ Foco em lógica de programação e sintaxe básica.
 ### 📁 Projetos de Destaque
 Confira alguns dos códigos mais interessantes que desenvolvi:
 
-#### 1. [Gerenciador de Tarefas (CLI)](./projeto_python/gerenciador_tarefas)
+#### 1. [Gerenciador de Tarefas (CLI)](./gerenciador_tarefas)
 Um dos meus primeiros projetos completos. Utiliza **Python** para criar um sistema de tarefas no terminal, persistindo dados em JSON e usando bibliotecas externas para cores e sons.
 > *Aprendizado principal: Manipulação de arquivos JSON e modularização de funções.*
 
